@@ -9,7 +9,6 @@ O filesync  transforma um Windows Server local (ou em nuvem) em um cache rápido
 
 Ele vai fazer essa segmentação e manter os arquivos mais acessados no servidor local. 
 
-Beneficios:
 
 	• Você ganha com performance pois ele trabalha com servidor de cash.
   
